@@ -1,6 +1,6 @@
 {
   "name": "@figliolia/galena-async-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Galena middleware that persists your state using React Native's AsyncStorage",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -45,7 +45,7 @@
     "typescript": "^4.4.0"
   },
   "dependencies": {
-    "@figliolia/galena": "^2.0.5",
+    "@figliolia/galena": "^2.0.9",
     "@react-native-async-storage/async-storage": "^1.18.2"
   },
   "publishConfig": {
