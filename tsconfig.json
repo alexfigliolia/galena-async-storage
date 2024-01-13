@@ -27,6 +27,9 @@
 		"noEmit": true,
 	},
 	"include": [
-		"src"
+		"src",
+		"**/*.json",
+		"**/*.js",
+		"**/*.ts"
 	]
 }
